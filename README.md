@@ -58,7 +58,7 @@
 </br>
 This ZIP File Extractor is a powerful, easy-to-use Python application built with tkinter, designed to streamline the process of extracting ZIP, 7z, and RAR files. It allows users to select directories, view file structures, and extract compressed files with ease, offering both specific and bulk extraction functionalities.</br> 
 </br>
-<img src="https://github.com/gelndjj/ZIP_File_Extractor/blob/main/resources/app_osx.png" alt="Screenshot" width="762" height="980">
+<img src="https://github.com/gelndjj/ZIP_File_Extractor/blob/main/resources/app_osx.png" alt="Screenshot" width="862" height="490">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -156,7 +156,7 @@ Set the icon size and the view options as you prefer (e.g., using 'View Show Vie
 + Eject and Test:
 + After arranging everything, eject the dm (by dragging the mounted volume to the Trash or right-clicking and selecting 'Eject *) and then remount it to ensure your changes are saved.
 
-####Step 4: Distribute the DMG File
+#### Step 4: Distribute the DMG File
 Once you're satisfied with the appearance and functionality, your * . dm file is ready for distribution.
 
 <!-- CONTRIBUTING -->
@@ -180,14 +180,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 <a href="https://www.python.org">
 <img src="https://github.com/gelndjj/ZIP_File_Extractor/blob/main/resources/py_icon.png" alt="Icon" width="32" height="32">
 </a>
-&nbsp
-<a href="https://customtkinter.tomschimansky.com">
-<img src="https://github.com/gelndjj/ZIP_File_Extractor/blob/main/resources/ctk_icon.png" alt="Icon" width="32" height="32">
-</a>
-&nbsp
-<a href="https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.3">
-<img src="https://github.com/gelndjj/ZIP_File_Extractor/blob/main/resources/ps_icon.png" alt="Icon" width="32" height="32">
-</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
     
 
@@ -197,8 +189,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 Distributed under the GNU GENERAL PUBLIC LICENSE. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
