@@ -58,7 +58,7 @@
 </br>
 This ZIP File Extractor is a powerful, easy-to-use Python application built with tkinter, designed to streamline the process of extracting ZIP, 7z, and RAR files. It allows users to select directories, view file structures, and extract compressed files with ease, offering both specific and bulk extraction functionalities.</br> 
 </br>
-<img src="https://github.com/gelndjj/ZIP_File_Extractor/blob/main/resources/app_osx.png" alt="Screenshot" width="862" height="490">
+<img src="https://github.com/gelndjj/ZIP_File_Extractor/blob/main/resources/app_osx.png" alt="Screenshot" width="762" height="490">
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
