@@ -15,7 +15,7 @@
     <img src="https://github.com/gelndjj/ZIP_File_Extractor/blob/main/resources/image0.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ZIP File Extractor</h3>
+  <h3 align="center">ExtractEase</h3>
 
   <p align="center">
     Archive Management Tool
@@ -56,7 +56,7 @@
 <div align="center">
 <img src="https://github.com/gelndjj/ZIP_File_Extractor/blob/main/resources/image0.png" alt="Logo" width="128" height="128">
 </br>
-This ZIP File Extractor is a powerful, easy-to-use Python application built with tkinter, designed to streamline the process of extracting ZIP, 7z, and RAR files. It allows users to select directories, view file structures, and extract compressed files with ease, offering both specific and bulk extraction functionalities.</br> 
+This ExtractEase is a powerful, easy-to-use Python application built with tkinter, designed to streamline the process of extracting ZIP, 7z, and RAR files. It allows users to select directories, view file structures, and extract compressed files with ease, offering both specific and bulk extraction functionalities.</br> 
 </br>
 <img src="https://github.com/gelndjj/ZIP_File_Extractor/blob/main/resources/app_osx.png" alt="Screenshot" width="762" height="490">
 </div>
@@ -110,7 +110,7 @@ pip install pyinstaller
 ```
 Generate the standalone app
 ```
-pyinstaller --onefile your_script_name.py
+pyinstaller --windowed --onefile your_script_name.py
 ```
 
 ## Create DMG(MacOS)
